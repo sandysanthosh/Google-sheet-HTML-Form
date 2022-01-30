@@ -1,6 +1,6 @@
 # Google-sheet-HTML-form
 
-
+https://hayykel.blogspot.com/2021/08/how-to-create-form-with-google-apps.html
 
 
 #### Code.gs:
